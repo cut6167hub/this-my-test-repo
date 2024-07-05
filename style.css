@@ -20,7 +20,16 @@ nav{
         text-decoration: none;
         margin-right: 250px;
         
+        
 }
+
+
+nav a :hover{
+    background-color: rgb(9, 182, 240);
+}
+
+
+
 
 .searchbox{
     height: 25px;
